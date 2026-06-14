@@ -25,11 +25,11 @@ THE MAIN MENU LOOKS LIKE :
 
 THE USER INPUT MENU :
 
-<img width="402" height="162" alt="the user input" src="https://github.com/user-attachments/assets/bc88d003-1970-4287-a565-5df6f33028ed" />
+<img width="702" height="162" alt="the user input" src="https://github.com/user-attachments/assets/bc88d003-1970-4287-a565-5df6f33028ed" />
 
 THE OUTPUT SCREEN :
 
-<img width="400" height="257" alt="the output" src="https://github.com/user-attachments/assets/8863b5f4-eca3-451b-8833-67d7bfe08491" />
+<img width="700" height="257" alt="the output" src="https://github.com/user-attachments/assets/8863b5f4-eca3-451b-8833-67d7bfe08491" />
 
 
 
