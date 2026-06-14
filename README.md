@@ -23,6 +23,10 @@ THE MAIN MENU LOOKS LIKE :
 
 <img width="401" height="407" alt="the main menu" src="https://github.com/user-attachments/assets/7eb9639d-da14-483a-ad94-f880097f3c1b" />
 
+THE ROUTE GRAPH WE ARE USING :
+
+<img width="1122" height="1402" alt="FINAL GRAPH" src="https://github.com/user-attachments/assets/a3e64743-04a9-4444-9fb6-ba51b6f4adc8" />
+
 THE USER INPUT MENU :
 
 <img width="702" height="162" alt="the user input" src="https://github.com/user-attachments/assets/bc88d003-1970-4287-a565-5df6f33028ed" />
